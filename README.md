@@ -1,33 +1,18 @@
-<!--
-👋 Hello! As Nova users browse the extensions library, a good README can help them understand what your extension does, how it works, and what setup or configuration it may require.
+# Yoncé for Nova
 
-Not every extension will need every item described below. Use your best judgement when deciding which parts to keep to provide the best experience for your new users.
+**Yoncé** is a Queen Bey inspired theme for Nova.
 
-💡 Quick Tip! As you edit this README template, you can preview your changes by selecting **Extensions → Activate Project as Extension**, opening the Extension Library, and selecting "Yoncé" in the sidebar.
+![](Images/screenshot.png)
 
-Let's get started!
--->
+## Instructions
 
-<!--
-🎈 To give users an idea of what your theme looks like, it's a great idea to show big, beautiful screenshots of your theme in action:
--->
+1. Go to **Extensions ➞ Extensions Library**. Choose the **Themes** tab and install the theme from here.
+1. Go to **Nova ➞ Preferences**. Choose the **Theme** tab and choose **Yoncé** to activate the theme.
 
-**Yoncé** provides a fun, bright palette:
+## Bug reports
 
-![](https://nova.app/images/en/dark/editor.png)
-
-<!--
-🎈 If your extension provides multiple variations, don't forget to show those too!
--->
-
-Yoncé also offers a lighter alternative:
-
-![](https://nova.app/images/en/light/editor.png)
+If you find any issues with this theme, bug reports and/or pull requests are welcome.
 
 ## Acknowledgements
 
-<!--
-🎈 If your theme is based on existing work by someone else, consider crediting the original author
--->
-
-Yoncé is based on _Original Yoncé_ by [Lauren Ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum).
+Yoncé for Nova is based on [Yoncé](https://github.com/minamarkham/yonce) by Mina Markham.
