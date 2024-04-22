@@ -1,0 +1,13 @@
+{
+    "identifier": "ruben.yonce",
+    "name": "Yoncé",
+    "organization": "Ruben Arakelyan",
+    "description": "A dark theme for Nova. Inspired by Queen Bey.",
+    "version": "1.0",
+    "categories": ["themes"],
+    "bugs": "https://github.com/rubenarakelyan/Yonce.novaextension/issues",
+    "funding": "",
+    "homepage": "https://github.com/rubenarakelyan/Yonce.novaextension",
+    "license": "MIT",
+    "repository": "https://github.com/rubenarakelyan/Yonce.novaextension"
+}
